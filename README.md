@@ -33,6 +33,7 @@ Martin Uribe – [@mohhinder](https://twitter.com/mohhinder) – mohhinder@gmail
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
 [https://github.com/clamytoe/Wattage-Calculator](https://github.com/clamytoe/Wattage-Calculator)
+
 [issues-image]:https://img.shields.io/github/issues/clamytoe/Wattage-Calculator.svg
 [issues-url]:https://github.com/clamytoe/Wattage-Calculator/issues
 [fork-image]:https://img.shields.io/github/forks/clamytoe/Wattage-Calculator.svg
